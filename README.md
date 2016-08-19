@@ -1,3 +1,4 @@
+test a push now that the master is linked...
 * note type "q" to get out of listing mode after "git show"
 * Create Remote Repo on GitHub
 * Create a local Repo on Git w $ mkdir command
