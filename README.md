@@ -1,2 +1,56 @@
-# DataScience
-Repo for DataScientistsToolbox projects
+* note type "q" to get out of listing mode after "git show"
+* Create Remote Repo on GitHub
+* Create a local Repo on Git w $ mkdir command
+* Now that you have a Directory navigate to the directory and initialize the Repository using the "Git init" command.
+** Init creates a subdirectly with your files in it
+* use "git add --A" to add new files and changes to tracking for version control
+* use git commit --m with a message to save an intermediate version
+when creating a local repo if you have a remote you can clone then go to it and it will already be linked
+
+# Introduction
+
+During the next year you will learn the fundamentals of data science. 
+Surviving the nine courses which make up the [Data Science 
+Specialization][0001] offered by [Johns Hopkins University][jhu] requires a
+**strategy**.
+
+To this end, the focus of the ten-course series including a capstone project 
+is to provide the learner with:
+
+1. an introduction to the key ideas behind reproducible research,
+
+2. an introduction to the tools and techniques to transform raw
+data into a presentable report,
+
+4. an opportunity to gain hands-on practice so you can learn the
+techniques for yourself, and
+
+3. an appreciation of the mathematics & statistics involved in
+data science.
+
+
+
+## Core Courses
+
+The courses comprising the Data Science Specialization are:
+
+* Data Scientist's Toolbox
+* R Programming
+* Getting and Cleaning Data
+* Exploratory Data Analysis
+* Reproducible Research
+* Statistical Inference
+* Regression Models
+* Practical Machine Learning
+* Developing Data Products
+
+![Course Dependency](dst_courses.png)
+
+*Figure 1 Course dependency diagram*
+
+
+[0001]: https://www.coursera.org/specialization/jhudatascience/1?utm_medium=
+
+courseDescripTop
+
+[jhu]: http://www.jhu.edu
